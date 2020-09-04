@@ -21,7 +21,7 @@ body {
 
 #container {
     
-    width: 70rem;
+    width: 90vw;
     margin: auto;
     background-color: rgba(0, 0, 0, 0.3);
     padding-bottom:  2rem;
@@ -51,7 +51,7 @@ body {
 #letterN, #letterF  {font-size: 3.3rem;}
 
 #survey-form {
-    width: 27rem;
+    width: 35vw;
     display: inline-block;
     text-align: left;
     background-color: rgba(0, 0, 0, 0.8);
